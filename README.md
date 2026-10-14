@@ -7,13 +7,13 @@ To ensure continued access to the gEVE data, we have created this git repository
 
 ## gEVE version 1.1 raw data
 
-[Nucleotide](./nt_fasta)
+[Nucleotide sequences](./nt_fasta)
 
-[Nucleotide (ATG starts)](./ntm_fasta)
+[Nucleotide sequences (ATG starts)](./ntm_fasta)
 
-[Amino acid](./aa_fasta)
+[Amino acid sequences](./aa_fasta)
 
-[Amino acid (M starts)](./aam_fasta)
+[Amino acid sequences (M starts)](./aam_fasta)
 
 [GTF](./gtf)
 
